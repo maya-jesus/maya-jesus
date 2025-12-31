@@ -1,9 +1,10 @@
 # 💫 About Me:
 Hi there! 
 I'm currently diving deep into the world of front-end development using JavaScript. 
-<br>My main passion is exploring the intersection of code and design, <br>specifically focusing on creating engaging web experiences.<br>
-I'm really excited about learning and mastering Three.js and GSAP to 
-create<br>visually appealing animations and interactive 3D elements to my projects.
+<br>My main passion is exploring the intersection of code and design, <br>specifically 
+focusing on creating engaging web experiences.<br> I'm really excited about learning 
+and mastering Three.js and GSAP to create<br>visually appealing animations and 
+interactive 3D elements to my projects. 
 
 
 ## 🌐 Socials:
